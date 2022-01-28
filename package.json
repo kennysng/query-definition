@@ -1,6 +1,6 @@
 {
   "name": "query-definition",
-  "version": "4.2.2",
+  "version": "4.2.3",
   "description": "Helper library for building complex SQL statements",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -41,6 +41,6 @@
     "swig-templates": "^2.0.3"
   },
   "peerDependencies": {
-    "@swivel-admin/node-jql": "^3.0.24"
+    "node-jql": "^3.0.25"
   }
 }
